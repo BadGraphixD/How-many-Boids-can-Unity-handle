@@ -9,3 +9,7 @@ The four different implementations are the following:
 4. More complex implementation with ECS and Jobs (~250.000 boids)
 
 The last one includes parts of code originally made by Bogdan Codreanu: [original code](https://github.com/BogdanCodreanu/ECS-Boids-Murmuration_Unity_2019.1)
+This Unity project was created with Unity 2020.1.0f1
+
+If you notice any improvements which could be made or found a better system, I'd love to hear about it!
+
