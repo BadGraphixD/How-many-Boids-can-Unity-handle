@@ -6,9 +6,11 @@ The four different implementations are the following:
 1. Implementation with GameObjects and MonoBehaviours (~350 boids)
 2. Implementation with ECS (no Jobs) (~500 boids)
 3. Implementation with ECS and Jobs (~7.000 boids)
-4. More complex implementation with ECS and Jobs (~250.000 boids)
+4. More complex implementation with ECS and Jobs (~**250.000 boids**)
 
->The last one includes parts of code originally made by Bogdan Codreanu: [original code](https://github.com/BogdanCodreanu/ECS-Boids-Murmuration_Unity_2019.1)
+>The last one includes code originally made by Bogdan Codreanu: https://github.com/BogdanCodreanu/ECS-Boids-Murmuration_Unity_2019.1
 
 This Unity project was created with Unity 2020.1.0f1.
 If you notice any improvements which could be made or found a better system, I'd love to hear about it!
+
+![500 Boids](https://github.com/BadGraphixD/How-many-Boids-can-Unity-handle/blob/master/Imgs/boids-500.png)
