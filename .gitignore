@@ -10,8 +10,9 @@
 /.vs/
 /.vscode/
 =======
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Uu][Ii][Ee]lements[Ss]chema/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
